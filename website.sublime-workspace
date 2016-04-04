@@ -4,33 +4,529 @@
 		"selected_items":
 		[
 			[
-				"cla",
-				"class_methods"
+				"re",
+				"$res〔variable〕"
+			],
+			[
+				"arrp",
+				"array_push"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"fiel",
+				"fieldx"
+			],
+			[
+				"fie",
+				"$field〔variable〕"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"gul",
+				"gulpwcb	gulp.watch('files', function(event){})"
+			],
+			[
+				"ta",
+				"table_list"
+			],
+			[
+				"g-",
+				"g-crud	g-crud"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"lib",
+				"library"
+			],
+			[
+				"_",
+				"_load_libraries"
+			],
+			[
+				"uns",
+				"unset〔keyword〕"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"ci",
+				"ci_start	CI - Generic Starter Class"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"pa",
+				"package	@package"
+			],
+			[
+				"BASE",
+				"base64_decode"
 			],
 			[
 				"for",
 				"foreach	foreach …"
 			],
 			[
-				"cicl",
-				"cicontroller	CodeIgniter Controller"
+				"me",
+				"message"
 			],
 			[
-				"pa",
-				"padding-top"
+				"fil",
+				"filenm"
 			],
 			[
-				"gi-",
-				"g-like	g-like"
+				"dir",
+				"dirname"
 			],
 			[
-				"locla",
-				"localhost"
+				"array_ps",
+				"array_push"
+			],
+			[
+				"php",
+				"phpWord"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"http_b",
+				"http_build_query"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"sessio",
+				"session"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"gro",
+				"groupList"
+			],
+			[
+				"gr",
+				"groupID"
+			],
+			[
+				"no",
+				"nospm"
+			],
+			[
+				"a",
+				"argument"
+			],
+			[
+				"sat",
+				"satuan"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"ind",
+				"indikator"
+			],
+			[
+				"jml",
+				"jmlPaguProgram"
+			],
+			[
+				"ke",
+				"kegiatan"
+			],
+			[
+				"kd",
+				"kd_bidang"
+			],
+			[
+				"jm",
+				"jmlProgram"
+			],
+			[
+				"sta",
+				"startBidang"
+			],
+			[
+				"pr",
+				"program"
+			],
+			[
+				"pro",
+				"Program"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"view",
+				"viewname"
+			],
+			[
+				"file",
+				"fileTarget"
+			],
+			[
+				"x",
+				"x-menu-tree"
+			],
+			[
+				"men",
+				"x-menu-tree"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"conf",
+				"config_file"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"DB",
+				"DBO"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"da",
+				"database"
+			],
+			[
+				"err",
+				"errorCode"
+			],
+			[
+				"cont",
+				"contentType"
+			],
+			[
+				"res",
+				"resp"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"def",
+				"def	define(…, …)"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"roo",
+				"root_path"
+			],
+			[
+				"Roo",
+				"root_path"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"pat",
+				"path_info"
+			],
+			[
+				"vie",
+				"views_path"
+			],
+			[
+				"ko",
+				"kode_urusan"
+			],
+			[
+				"kod",
+				"kode_program"
+			],
+			[
+				"indi",
+				"indikator_sasaran"
+			],
+			[
+				"q",
+				"qDetil"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"n",
+				"ndskn"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"cus",
+				"cust"
+			],
+			[
+				"nd",
+				"Ndiskon"
+			],
+			[
+				"s",
+				"sTotal"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"cle",
+				"clearForm"
+			],
+			[
+				"sub",
+				"subTotal"
+			],
+			[
+				"text",
+				"textbox"
+			],
+			[
+				"ura",
+				"uraian"
+			],
+			[
+				"bar",
+				"barang_id"
+			],
+			[
+				"te",
+				"Telepon"
+			],
+			[
+				"dta",
+				"datagrid"
+			],
+			[
+				"qu",
+				"queryProgramPrioritas"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"targetKe",
+				"targetKegiatanPrioritas"
+			],
+			[
+				"ha",
+				"hasil"
+			],
+			[
+				"kel",
+				"keluaran"
+			],
+			[
+				"apbd",
+				"apbdKota2"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"tar",
+				"Target"
+			],
+			[
+				"Targ",
+				"Target_Uraian"
+			],
+			[
+				"nam",
+				"namaFileExport"
+			],
+			[
+				"exl",
+				"excelKegiatan"
+			],
+			[
+				"rp",
+				"rowKegiatanPrioritas"
+			],
+			[
+				"fec",
+				"fetchAll"
+			],
+			[
+				"PRE",
+				"prepare"
+			],
+			[
+				"he",
+				"headerKegiatan"
+			],
+			[
+				"expr",
+				"excelProgram"
+			],
+			[
+				"excl",
+				"excelProgram"
+			],
+			[
+				"xl",
+				"xlProgramRutin"
+			],
+			[
+				"remo",
+				"removeQuote"
+			],
+			[
+				"nama",
+				"namaProgram"
+			],
+			[
+				"id",
+				"id_prog"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"FE",
+				"FETCH_ASSOC"
+			],
+			[
+				"FECT",
+				"fetchAll"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"sav",
+				"saveGroupMenu"
+			],
+			[
+				"ch",
+				"checkAllMenu"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"use",
+				"user_group"
+			],
+			[
+				"grou",
+				"group_name"
+			],
+			[
+				"show",
+				"showGroup"
+			],
+			[
+				"PARA",
+				"PARAM_INT"
+			],
+			[
+				"eve",
+				"event_name"
+			],
+			[
+				"is",
+				"isNewRecord"
+			],
+			[
+				"add",
+				"addEventMenu"
+			],
+			[
+				"tit",
+				"titleMenu"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"han",
+				"Handler"
+			],
+			[
+				"pre",
+				"prepare"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/F/WAMPP/htdocs/magersari/application/views/template.php",
+			"settings":
+			{
+				"buffer_size": 11950,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -40,28 +536,104 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "pac",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"pac",
+				"pak",
 				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"an",
+				"ANF: Copy Current File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ahp"
+			],
+			[
+				"se",
+				"Set Syntax: PHP"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"setsq",
+				"Set Syntax: SQL"
+			],
+			[
+				"s",
+				"Set Syntax: PHP"
 			],
 			[
 				"insta",
 				"Package Control: Install Package"
 			],
 			[
-				"rem",
+				"remo",
 				"Package Control: Remove Package"
 			],
 			[
-				"pa",
+				"Package Control: in",
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
+				"prv",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
 				"Package Control: Install Package"
+			],
+			[
+				"\\",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"setsjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"seph",
+				"Set Syntax: PHP"
 			]
 		],
 		"width": 400.0
@@ -71,7 +643,10 @@
 		"height": 126.0,
 		"history":
 		[
-			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+			"ls",
+			"dir",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -80,64 +655,170 @@
 		"show_minimap": false,
 		"show_open_files": false,
 		"show_tabs": false,
-		"side_bar_visible": false,
+		"side_bar_visible": true,
 		"status_bar_visible": false
 	},
 	"expanded_folders":
 	[
-		"/D/webserver/htdocs/project/Website"
+		"/F/WAMPP/htdocs/web",
+		"/F/WAMPP/htdocs/web/application/cache"
 	],
 	"file_history":
 	[
-		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/views/add.php",
-		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/views/list_template.php",
-		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/css/common.css",
-		"/D/webserver/htdocs/project/code/application/core/MY_Model.php",
-		"/D/webserver/htdocs/project/code/system/database/DB_driver.php",
-		"/D/webserver/htdocs/project/code/code.sublime-project",
-		"/D/webserver/htdocs/project/code/application/views/example.php",
-		"/D/webserver/htdocs/project/code/system/core/Model.php",
-		"/D/webserver/htdocs/project/code/system/database/DB_query_builder.php",
-		"/D/webserver/htdocs/newmonev/store/program_kegiatan/save.php",
-		"/D/webserver/htdocs/project/code/application/libraries/Menu.php",
-		"/D/webserver/htdocs/project/code/application/controllers/Examples.php",
-		"/D/webserver/htdocs/project/code/application/libraries/Grocery_CRUD.php",
-		"/D/webserver/htdocs/project/code/application/models/Grocery_crud_model.php",
-		"/D/webserver/htdocs/newmonev/core/DB.php",
-		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/css/bootstrap/bootstrap.css",
-		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/css/bootstrap/bootstrap.min.css",
-		"/D/webserver/htdocs/project/magersari/magersari.sublime-project",
-		"/D/webserver/htdocs/project/magersari/application/config/config.php",
-		"/D/webserver/htdocs/project/magersari/application/config/database.php",
-		"/C/Users/Erlangga/AppData/Local/Temp/Temp1_examples_database.sql.zip/examples_database.sql",
-		"/D/webserver/htdocs/project/magersari/.htaccess",
-		"/D/webserver/htdocs/project/magersari/application/config/grocery_crud.php",
-		"/D/webserver/htdocs/project/magersari/application/models/Grocery_crud_model.php",
-		"/D/webserver/htdocs/project/magersari/application/controllers/Examples.php",
-		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/Terminal/messages.json",
-		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
-		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
-		"/C/Users/Erlangga/.ssh/id_rsa.pub",
-		"/D/webserver/htdocs/github/wysiwyg.js/package.json",
-		"/D/webserver/htdocs/github/wysiwyg.js/demo/index.html",
-		"/D/webserver/htdocs/github/wysiwyg.js/bower.json",
-		"/D/webserver/htdocs/newmonev/app.js",
-		"/D/webserver/htdocs/newmonev/config/evaluasi.php",
-		"/D/webserver/htdocs/newmonev/index.php",
-		"/D/webserver/htdocs/magersari/css/style.css",
-		"/D/webserver/htdocs/magersari/index.php"
+		"/F/WAMPP/htdocs/magersari/application/libraries/Template.php",
+		"/F/WAMPP/htdocs/code/code.sublime-project",
+		"/F/WAMPP/htdocs/code/application/config/routes.php",
+		"/F/WAMPP/htdocs/code/sa.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI01.750/bb.php",
+		"/F/WAMPP/htdocs/code/system/database/drivers/pdo/pdo_driver.php",
+		"/F/WAMPP/htdocs/code/system/database/drivers/mssql/mssql_driver.php",
+		"/F/WAMPP/htdocs/code/system/database/drivers/mysql/mysql_driver.php",
+		"/F/WAMPP/htdocs/code/system/database/DB_driver.php",
+		"/F/WAMPP/htdocs/code/application/controllers/Examples.php",
+		"/F/WAMPP/htdocs/code/application/views/example.php",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/views/add.php",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/js/jquery_plugins/jquery.chosen.js",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/views/list_template.php",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/css/general.css",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/css/list.css",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/views/list_tbody.php",
+		"/F/WAMPP/htdocs/magersari/template/dist/css/AdminLTE.css",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/views/read.php",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/css/bootstrap/bootstrap.css",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/css/jquery_plugins/chosen/chosen.css",
+		"/F/WAMPP/htdocs/magersari/template/bootstrap/css/bootstrap.css",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/views/edit.php",
+		"/F/WAMPP/htdocs/code/application/libraries/Grocery_CRUD.php",
+		"/F/WAMPP/htdocs/code/application/config/grocery_crud.php",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/alex/css/bootstrap/bootstrap.css",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/alex/views/edit.php",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/alex/views/add.php",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/alex/views/read.php",
+		"/F/WAMPP/htdocs/code/gulpfile.js",
+		"/F/WAMPP/htdocs/code/index.js",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/alex/views/list_template.php",
+		"/F/WAMPP/htdocs/code/package.json",
+		"/F/NODE/node_modules/npm/package.json",
+		"/F/WAMPP/htdocs/code/node_modules/.bin/gulp.cmd",
+		"/F/WAMPP/htdocs/code/node_modules/.bin/gulp",
+		"/C/Users/coding/AppData/Roaming/npm/node_modules/gulp-cli/bin/gulp.js",
+		"/F/WAMPP/htdocs/code/system/index.html",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/css/bootstrap/bootstrap.min.css",
+		"/F/WAMPP/htdocs/magersari/application/views/template.php",
+		"/F/WAMPP/htdocs/code/application/views/example_ori.php",
+		"/F/WAMPP/htdocs/code/assets/grocery_crud/themes/bootstrap/js/common/common.js",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR77.172/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/dist/js/bootstrap.min.js",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR09.953/startbootstrap-sb-admin-2-1.0.8/pages/blank.html",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR55.078/startbootstrap-sb-admin-2-1.0.8/dist/js/sb-admin-2.js",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR44.047/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/src/metisMenu.css",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR31.578/startbootstrap-sb-admin-2-1.0.8/dist/css/sb-admin-2.css",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR47.218/startbootstrap-sb-admin-2-1.0.8/bower_components/metisMenu/src/metisMenu.js",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR86.343/startbootstrap-sb-admin-2-1.0.8/bower_components/bootstrap/js/collapse.js",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI56.9734/dropdown.js",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR02.203/startbootstrap-sb-admin-2-1.0.8/pages/index.html",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR00.843/startbootstrap-sb-admin-2-1.0.8/index.html",
+		"/F/WAMPP/htdocs/code/application/config/config.php",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/User/CodeComplice.sublime-settings",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
+		"/F/WAMPP/htdocs/magersari/harviacode/index.php",
+		"/F/WAMPP/htdocs/code/crud/index.php",
+		"/F/WAMPP/htdocs/code/generate.php",
+		"/F/WAMPP/htdocs/code/crud/core/process.php",
+		"/F/WAMPP/htdocs/code/crud/core/harviacode.php",
+		"/F/WAMPP/htdocs/code/crud/core/create_controller.php",
+		"/F/WAMPP/htdocs/code/application/config/database.php",
+		"/F/WAMPP/htdocs/code/application/config/autoload.php",
+		"/F/WAMPP/htdocs/code/application/views/template.php",
+		"/F/WAMPP/htdocs/code/template/dist/js/app.js",
+		"/F/WAMPP/htdocs/code/aa/core/create_view_form.php",
+		"/F/WAMPP/htdocs/code/aa/core/create_view_list.php",
+		"/F/WAMPP/htdocs/code/aa/core/create_view_list_datatables.php",
+		"/F/WAMPP/htdocs/code/application/views/actor_list.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI34.7719/create_view_list.php",
+		"/F/WAMPP/htdocs/xapilio/application/config/routes.php",
+		"/F/WAMPP/htdocs/xapilio/application/config/config.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI16.2969/autoload.php",
+		"/F/WAMPP/htdocs/code/application/helpers/cms_helper.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI13.7906/nuris_helper.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI01.344/nuris_helper.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI09.516/menu_form.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI15.078/siswa_form.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI27.188/template.php",
+		"/F/WAMPP/htdocs/magersari/application/controllers/Menu.php",
+		"/F/WAMPP/htdocs/magersari/application/models/Berita_model.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI19.625/Template.php",
+		"/F/WAMPP/htdocs/code/application/core/MY_Model.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI08.172/Menu.php",
+		"/F/WAMPP/htdocs/magersari/application/controllers/Berita.php",
+		"/F/WAMPP/htdocs/code/system/core/Benchmark.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI28.328/autoload.php",
+		"/F/WAMPP/htdocs/code/application/core/MY_Controller.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI23.531/Siswa.php",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI18.063/Jurusan.php",
+		"/F/WAMPP/htdocs/code/system/core/Model.php",
+		"/F/WAMPP/htdocs/code/system/core/Loader.php",
+		"/F/WAMPP/htdocs/magersari/application/config/pagination.php",
+		"/F/WAMPP/htdocs/magersari/application/views/berita_list.php",
+		"/F/WAMPP/htdocs/code/index.php",
+		"/F/WAMPP/php/phpcs",
+		"/F/WAMPP/php/pear/HTTP/Request.php",
+		"/F/WAMPP/htdocs/code/.htaccess",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/F/WAMPP/htdocs/bojon/index.php",
+		"/F/WAMPP/htdocs/codeigniter/application/controllers/auth.php",
+		"/F/WAMPP/htdocs/bojon/head.php",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/F/WAMPP/htdocs/pip/index.php",
+		"/F/WAMPP/htdocs/pip/start.php",
+		"/F/WAMPP/htdocs/pip/dashboard.php",
+		"/F/WAMPP/htdocs/pip/app/model/common.php",
+		"/F/WAMPP/htdocs/pip/app/model/user.php",
+		"/F/WAMPP/htdocs/pip/config/boot.php",
+		"/F/WAMPP/htdocs/git/test.php",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/F/WAMPP/htdocs/editor/demo/index.html",
+		"/F/WAMPP/htdocs/magersari/application/views/dpa_form.php",
+		"/F/WAMPP/htdocs/magersari/system/helpers/form_helper.php",
+		"/F/WAMPP/htdocs/magersari/system/libraries/Form_validation.php",
+		"/F/WAMPP/htdocs/wt/bower.json",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI00.110/wysiwyg-editor.js",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR16.235/wysiwyg.js-master/demo/index.html",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DI09.891/wysiwyg.js",
+		"/C/Users/coding/AppData/Local/Temp/Rar$DR16.235/wysiwyg.js-master/demo/None",
+		"/F/WAMPP/htdocs/magersari/application/controllers/Dpa.php",
+		"/F/WAMPP/htdocs/ci-monev/system/core/Input.php",
+		"/C/Users/coding/AppData/Roaming/Sublime Text 3/Packages/<Unsaved>",
+		"/F/WAMPP/htdocs/magersari/application/views/menu_list.php"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
+			"F:\\WAMPP\\htdocs\\larakec",
+			"F:\\WAMPP\\htdocs\\homepage",
+			"F:\\WAMPP\\htdocs\\beta",
+			"<open folders>",
+			"F:\\WAMPP\\htdocs\\v5\\vendor",
+			"F:\\WAMPP\\htdocs\\newlaravel\\laravel",
+			"F:\\WAMPP\\htdocs\\newlaravel\\laravel\\vendor",
+			"F:\\WAMPP\\htdocs\\newlaravel\\laravel",
+			"F:\\WAMPP\\htdocs\\html\\test",
+			"F:\\WAMPP\\htdocs\\html\\sitecake",
+			"F:\\WAMPP\\htdocs\\pns",
+			"F:\\WAMPP\\htdocs\\sampang",
+			"F:\\WAMPP\\htdocs\\dede\\",
+			"F:\\WAMPP\\htdocs\\int\\",
+			"F:\\WAMPP\\htdocs\\int\\static\\css",
+			"F:\\WAMPP\\htdocs\\integrasi"
 		]
 	},
 	"find_state":
@@ -145,15 +826,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"related_field_title",
-			"$this->relation",
-			"'relation'",
-			"container",
+			"primary_key",
+			"echo",
+			"padding: 8px 12px;",
+			"padding-top: 9px;",
+			"36px",
+			"36",
+			".btn-default",
+			"search",
+			"default",
+			"0",
+			"width",
+			"form-control",
+			"btn ",
+			"default_theme_path.'/bootstrap/",
+			"set_theme",
+			"active",
+			"hc",
+			"default",
+			"3",
+			"cmb",
+			"Model",
+			"onImageUpload",
+			"on_imageupload",
+			"image",
+			"force_imageupload",
+			"forceImageUpload",
+			"insert_image",
+			"add(",
+			";",
+			"$db['default']",
+			"\n",
+			"$crud->unset_jquery();",
+			".EXT",
+			"EXT",
+			".",
+			":before",
+			":",
+			"{",
+			"</script>",
+			"src=\"",
+			"application",
+			".: ",
+			"47cad4",
+			"2cb2bc",
+			"codeeditor",
+			"NilaiAnggaran",
+			"1",
+			"prin",
+			"data",
+			"unit",
+			"kegiatan",
+			"program",
+			"bidang",
+			"urusan",
+			"dirname",
+			"Preview",
+			"=>",
+			"[",
+			"$row",
+			");",
+			"integer",
+			",",
+			"<?php echo \"$kegiatan\"; ?>",
+			"pengusul2='$sessionKec'",
+			"AND skpdTujuan='$sessionKec' ",
+			"pengusul2",
+			"menu",
+			");",
+			",",
+			"define('",
+			"volvo",
+			"table",
+			"volume6",
+			"fc",
+			"$(\".form-control\")",
+			"kd_urusan",
+			"body",
+			"indikatorRPJMD",
+			"category",
+			"$opt",
+			"UPDATE",
+			"update",
+			"$value",
 			";\n",
-			"sub-menu",
-			".html",
-			"href=\"#\"",
-			"href="
+			"field",
+			"kd_urusan",
+			"sendGetGroupsFiltered",
+			"sendGetGroups",
+			"groupList",
+			"getJID",
+			"groupId",
+			"GroupId",
+			"groupId",
+			"group",
+			"Group",
+			"group",
+			"GROUP",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"eventManager",
+			"GroupList",
+			"groupList",
+			"sendGetGroupsFiltered",
+			"group",
+			"ProcessNode",
+			" ",
+			".",
+			"Finished",
+			"Diproses Kepala",
+			"Diproses Kabid",
+			"Di Proses Kasi",
+			"Diproses Kabid",
+			"Dikembalikan",
+			"Diproses Kepala",
+			"</label>",
+			"<label for=",
+			"mb20",
+			"columns",
+			"</span>",
+			"<span class=\"left inline\">",
+			"for",
+			"label",
+			"nospm",
+			"kd_urusan",
+			"sampang",
+			"primagroup2014"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -161,6 +961,31 @@
 		"regex": false,
 		"replace_history":
 		[
+			"padding: 4px 10px;",
+			"btn btn-sm ",
+			"",
+			"1E630D",
+			"297D14",
+			"",
+			"Diterima Kasi",
+			"\"tgl2\":\"01/01/",
+			", \"dana\":500000,\"perihal\"",
+			"\\\"\\#\\,\\#\\#0\\\";",
+			"\\#\\,\\#\\#0",
+			"\\\"",
+			"",
+			"),",
+			"\"",
+			"SIPPDA",
+			"Bojonegoro",
+			"Kota Bojonegoro",
+			"sampangk_bojonegoro",
+			"",
+			"class=\"sc-content ",
+			"Bojonegoro",
+			"../images/icons/",
+			"../images/",
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -171,14 +996,45 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/F/WAMPP/htdocs/magersari/application/views/template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11484,
+								11484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4444.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -211,11 +1067,15 @@
 	{
 		"height": 0.0
 	},
+	"output.unsaved_changes":
+	{
+		"height": 188.0
+	},
 	"pinned_build_system": "",
 	"project": "website.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -225,51 +1085,35 @@
 		"selected_items":
 		[
 			[
-				"gr",
-				"application\\models\\Grocery_crud_model.php"
-			],
-			[
-				"mode",
-				"system\\core\\Model.php"
-			],
-			[
-				"add.p",
-				"assets\\grocery_crud\\themes\\bootstrap\\views\\add.php"
-			],
-			[
-				"list",
-				"assets\\grocery_crud\\themes\\bootstrap\\views\\list_template.php"
-			],
-			[
-				"css",
-				"assets\\grocery_crud\\themes\\bootstrap\\css\\common.css"
-			],
-			[
-				"boot",
-				"assets\\grocery_crud\\themes\\bootstrap\\css\\bootstrap\\bootstrap.css"
-			],
-			[
-				"boo",
-				"assets\\grocery_crud\\themes\\bootstrap\\css\\bootstrap\\bootstrap.min.css"
-			],
-			[
-				"exp",
-				"application\\views\\example.php"
-			],
-			[
-				"groc",
-				"application\\libraries\\Grocery_CRUD.php"
-			],
-			[
-				"ex",
-				"application\\controllers\\Examples.php"
-			],
-			[
-				"grom",
-				"application\\models\\Grocery_crud_model.php"
+				"cho",
+				"assets\\grocery_crud\\css\\jquery_plugins\\chosen\\chosen.css"
 			],
 			[
 				"gro",
+				"application\\libraries\\Grocery_CRUD.php"
+			],
+			[
+				"list",
+				"assets\\grocery_crud\\themes\\bootstrap\\css\\list.css"
+			],
+			[
+				"gr",
+				"application\\libraries\\Grocery_CRUD.php"
+			],
+			[
+				"boo",
+				"assets\\grocery_crud\\themes\\alex\\css\\bootstrap\\bootstrap.css"
+			],
+			[
+				"add",
+				"assets\\grocery_crud\\themes\\alex\\views\\add.php"
+			],
+			[
+				"edi",
+				"assets\\grocery_crud\\themes\\alex\\views\\edit.php"
+			],
+			[
+				"groc",
 				"application\\config\\grocery_crud.php"
 			],
 			[
@@ -277,20 +1121,120 @@
 				"application\\config\\database.php"
 			],
 			[
-				"confi",
+				"conf",
 				"application\\config\\config.php"
+			],
+			[
+				"comm",
+				"core\\Common.php"
+			],
+			[
+				"eas",
+				"static\\css\\easyui.css"
+			],
+			[
+				"tim",
+				"time.php"
+			],
+			[
+				"cretb",
+				"database\\migrations\\2015_12_31_065813_create_bidang_table.php"
+			],
+			[
+				"creatu",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"createu",
+				"database\\migrations\\2015_12_31_064818_create_urusan_table.php"
+			],
+			[
+				"a",
+				"app.js"
+			],
+			[
+				"",
+				"app.js"
+			],
+			[
+				"aut",
+				"webdesktopakunting\\app\\view\\autoComplete.js"
+			],
+			[
+				"wall",
+				"webdesktopakunting\\app\\view\\wallpaper.js"
+			],
+			[
+				"blade",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"ro",
+				"app\\Http\\routes.php"
+			],
+			[
+				"rela",
+				"Database\\Eloquent\\Relations\\Relation.php"
+			],
+			[
+				"hason",
+				"Database\\Eloquent\\Relations\\HasOneOrMany.php"
+			],
+			[
+				"hasma",
+				"Database\\Eloquent\\Relations\\HasMany.php"
+			],
+			[
+				"eloqbuil",
+				"Database\\Eloquent\\Builder.php"
+			],
+			[
+				"eloqmo",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"index.",
+				"integrasi\\Filemanager-master\\index.html"
+			],
+			[
+				"connectors/php",
+				"integrasi\\Filemanager-master\\connectors\\php\\default.config.php"
+			],
+			[
+				"connectors/php/filemanager.class.php",
+				"integrasi\\Filemanager-master\\connectors\\php\\filemanager.class.php"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"F:\\WAMPP\\htdocs\\magersari\\magersari.sublime-workspace"
+			],
+			[
+				"ma",
+				"F:\\WAMPP\\htdocs\\magersari\\magersari.sublime-workspace"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -309,7 +1253,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 231.0,
+	"side_bar_width": 274.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
