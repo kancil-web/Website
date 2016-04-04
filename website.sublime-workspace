@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"class_methods"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"cicl",
+				"cicontroller	CodeIgniter Controller"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"gi-",
+				"g-like	g-like"
+			],
+			[
+				"locla",
+				"localhost"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/webserver/htdocs/project/Website"
+	],
+	"file_history":
+	[
+		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/views/add.php",
+		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/views/list_template.php",
+		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/css/common.css",
+		"/D/webserver/htdocs/project/code/application/core/MY_Model.php",
+		"/D/webserver/htdocs/project/code/system/database/DB_driver.php",
+		"/D/webserver/htdocs/project/code/code.sublime-project",
+		"/D/webserver/htdocs/project/code/application/views/example.php",
+		"/D/webserver/htdocs/project/code/system/core/Model.php",
+		"/D/webserver/htdocs/project/code/system/database/DB_query_builder.php",
+		"/D/webserver/htdocs/newmonev/store/program_kegiatan/save.php",
+		"/D/webserver/htdocs/project/code/application/libraries/Menu.php",
+		"/D/webserver/htdocs/project/code/application/controllers/Examples.php",
+		"/D/webserver/htdocs/project/code/application/libraries/Grocery_CRUD.php",
+		"/D/webserver/htdocs/project/code/application/models/Grocery_crud_model.php",
+		"/D/webserver/htdocs/newmonev/core/DB.php",
+		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/css/bootstrap/bootstrap.css",
+		"/D/webserver/htdocs/project/code/assets/grocery_crud/themes/bootstrap/css/bootstrap/bootstrap.min.css",
+		"/D/webserver/htdocs/project/magersari/magersari.sublime-project",
+		"/D/webserver/htdocs/project/magersari/application/config/config.php",
+		"/D/webserver/htdocs/project/magersari/application/config/database.php",
+		"/C/Users/Erlangga/AppData/Local/Temp/Temp1_examples_database.sql.zip/examples_database.sql",
+		"/D/webserver/htdocs/project/magersari/.htaccess",
+		"/D/webserver/htdocs/project/magersari/application/config/grocery_crud.php",
+		"/D/webserver/htdocs/project/magersari/application/models/Grocery_crud_model.php",
+		"/D/webserver/htdocs/project/magersari/application/controllers/Examples.php",
+		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/Terminal/messages.json",
+		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Erlangga/AppData/Roaming/Sublime Text 3/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
+		"/C/Users/Erlangga/.ssh/id_rsa.pub",
+		"/D/webserver/htdocs/github/wysiwyg.js/package.json",
+		"/D/webserver/htdocs/github/wysiwyg.js/demo/index.html",
+		"/D/webserver/htdocs/github/wysiwyg.js/bower.json",
+		"/D/webserver/htdocs/newmonev/app.js",
+		"/D/webserver/htdocs/newmonev/config/evaluasi.php",
+		"/D/webserver/htdocs/newmonev/index.php",
+		"/D/webserver/htdocs/magersari/css/style.css",
+		"/D/webserver/htdocs/magersari/index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"related_field_title",
+			"$this->relation",
+			"'relation'",
+			"container",
+			";\n",
+			"sub-menu",
+			".html",
+			"href=\"#\"",
+			"href="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gr",
+				"application\\models\\Grocery_crud_model.php"
+			],
+			[
+				"mode",
+				"system\\core\\Model.php"
+			],
+			[
+				"add.p",
+				"assets\\grocery_crud\\themes\\bootstrap\\views\\add.php"
+			],
+			[
+				"list",
+				"assets\\grocery_crud\\themes\\bootstrap\\views\\list_template.php"
+			],
+			[
+				"css",
+				"assets\\grocery_crud\\themes\\bootstrap\\css\\common.css"
+			],
+			[
+				"boot",
+				"assets\\grocery_crud\\themes\\bootstrap\\css\\bootstrap\\bootstrap.css"
+			],
+			[
+				"boo",
+				"assets\\grocery_crud\\themes\\bootstrap\\css\\bootstrap\\bootstrap.min.css"
+			],
+			[
+				"exp",
+				"application\\views\\example.php"
+			],
+			[
+				"groc",
+				"application\\libraries\\Grocery_CRUD.php"
+			],
+			[
+				"ex",
+				"application\\controllers\\Examples.php"
+			],
+			[
+				"grom",
+				"application\\models\\Grocery_crud_model.php"
+			],
+			[
+				"gro",
+				"application\\config\\grocery_crud.php"
+			],
+			[
+				"data",
+				"application\\config\\database.php"
+			],
+			[
+				"confi",
+				"application\\config\\config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
